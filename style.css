@@ -66,13 +66,3 @@ footer {
   height: 50px;
   background-color: #AAAAAA;
 }
-
-@media screen and (max-width: 768px) {
-  header {
-    width: 100%;
-  }
-
-  main {
-    display: block;
-  }
-}
